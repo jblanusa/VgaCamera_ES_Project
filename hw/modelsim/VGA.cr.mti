@@ -1,0 +1,147 @@
+D:/projekti/VGA/lab_4/hw/hdl/Slave_component.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/Slave_component.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Slave_component
+-- Compiling architecture rtl of Slave_component
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/Master_component.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/Master_component.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Master_component
+-- Compiling architecture rtl of Master_component
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/tbench/image_gen.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/tbench/image_gen.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package vga_pkg
+-- Compiling entity image_gen
+-- Compiling architecture rtl of image_gen
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/tbench/fifo_input_gen.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/tbench/fifo_input_gen.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package vga_pkg
+-- Compiling entity fifo_input_gen
+-- Compiling architecture rtl of fifo_input_gen
+
+} {} {}} D:/projekti/VGA/lab_4/hw/quartus/ip/fifo64/fifo64.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/quartus/ip/fifo64/fifo64.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fifo64
+-- Compiling architecture SYN of fifo64
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/VGA_controller.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/VGA_controller.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package vga_pkg
+-- Compiling entity VGA_controller
+-- Compiling architecture rtl of VGA_controller
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/vga_sync_test.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/vga_sync_test.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package vga_pkg
+-- Compiling entity vga_test
+-- Compiling architecture rtl of vga_test
+
+} {} {}} D:/projekti/VGA/lab_4/hw/quartus/fifo.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/quartus/fifo.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fifo
+-- Compiling architecture SYN of fifo
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/tbench/master_driver.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/tbench/master_driver.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package vga_pkg
+-- Compiling entity master_driver
+-- Compiling architecture rtl of master_driver
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/vga_sync.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/vga_sync.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vga_sync
+-- Compiling architecture rtl of vga_sync
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/vga_pkg.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/vga_pkg.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package vga_pkg
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/vga_top_test.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/vga_top_test.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package vga_pkg
+-- Compiling entity vga_top_test
+-- Compiling architecture rtl of vga_top_test
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/tbench/tb_vga_top.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/tbench/tb_vga_top.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package vga_pkg
+-- Compiling entity tb_vga_top
+-- Compiling architecture bench of tb_vga_top
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/vga_controller_test.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/vga_controller_test.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package vga_pkg
+-- Compiling entity vga_controller_test
+-- Compiling architecture rtl of vga_controller_test
+
+} {} {}} D:/projekti/VGA/lab_4/hw/hdl/vga_fifo_test.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/projekti/VGA/lab_4/hw/hdl/vga_fifo_test.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package vga_pkg
+-- Compiling entity vga_fifo_test
+-- Compiling architecture rtl of vga_fifo_test
+
+} {} {}}
